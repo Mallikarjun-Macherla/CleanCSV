@@ -57,3 +57,6 @@ This project is licensed under the MIT License.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MallikarjunMacherla/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallikarjunmac05@gmail.com)
 
+---
+
+<p align="center">⭐ <b>Star this repository if you find it helpful!</b> ⭐</p>
