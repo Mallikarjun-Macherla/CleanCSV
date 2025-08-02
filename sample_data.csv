@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Rating
+Alice,25.0,50000.0,Sales,4.5
+Bob,30.0,55000.0,Engineering,4.2
+Charlie,35.0,,Engineering,4.7
+David,30.0,1000000.0,Marketing,4.1
+Eve,28.0,52000.0,Sales,4.6
+Frank,,49000.0,Marketing,4.3
+Grace,29.0,51000.0,Sales,
+Heidi,25.0,50000.0,Sales,4.5
+Ivan,30.0,55000.0,Engineering,4.2
+Judy,35.0,,Engineering,4.7
