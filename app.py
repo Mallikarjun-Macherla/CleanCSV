@@ -125,8 +125,3 @@ if df_original is not None:
         )
 else:
     st.info("Please upload a CSV file to begin.")
-
-# Footer with clickable author link (no icon)
-st.markdown("---")
-st.markdown('<div style="text-align:center; font-size:16px;">Made by <a href="https://github.com/Mallikarjun-Macherla" target="_blank">Mallikarjun Macherla</a></div>', unsafe_allow_html=True)
-
