@@ -3,7 +3,7 @@ import pandas as pd
 import io
 
 st.set_page_config(page_title="CSV Cleaner", layout="centered")
-st.title("CSV Cleaner Web App")
+st.title("CleanCSV")
 
 st.markdown("""
 Upload a CSV file to clean duplicates and missing values, preview the results, and download the cleaned file.
@@ -129,3 +129,4 @@ else:
 # Footer with clickable author link (no icon)
 st.markdown("---")
 st.markdown('<div style="text-align:center; font-size:16px;">Made by <a href="https://github.com/Mallikarjun-Macherla" target="_blank">Mallikarjun Macherla</a></div>', unsafe_allow_html=True)
+
